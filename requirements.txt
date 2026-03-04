@@ -2,18 +2,11 @@
 langchain
 langchain-core
 
-# OpenAI Integration
+# Ollama Integration
 langchain-ollama
 
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
 
 # Environment Variable Management
 python-dotenv
 
-# Machine Learning Utilities
-numpy
-scikit-learn
 pydantic
